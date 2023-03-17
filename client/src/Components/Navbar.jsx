@@ -3,8 +3,8 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div><nav className="navbar navbar-expand-lg bg-white navbar-light fixed-top shadow py-lg-0 px-4 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-    <a href="index.html" className="navbar-brand d-block d-lg-none">
-        <h1 className="text-primary fw-bold m-0">ProMan</h1>
+    <a href="/" className="navbar-brand d-block d-lg-none">
+        <h1 className="text-primary fw-bold m-0">Fawad Rehman</h1>
     </a>
     <button type="button" className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span className="navbar-toggler-icon"></span>
