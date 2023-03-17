@@ -18,7 +18,7 @@ const Service = () => {
                             <h1 className="display-5 mb-0">My Services</h1>
                         </div>
                         <div className="col-lg-6 text-lg-end">
-                            <a className="btn btn-primary py-3 px-5" href="https://www.upwork.com/freelancers/~015a226bc5c7d289fe">Hire Me</a>
+                            <a target="_blank" className="btn btn-primary py-3 px-5" href="https://www.upwork.com/freelancers/~015a226bc5c7d289fe">Hire Me</a>
                         </div>
                     </div>
                 

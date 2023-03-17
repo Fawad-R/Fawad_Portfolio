@@ -20,7 +20,7 @@ const About = () => {
                 <p className="mb-3"><i className="far fa-check-circle text-primary me-3"></i>Afordable Prices</p>
                 <p className="mb-3"><i className="far fa-check-circle text-primary me-3"></i>High Quality Product</p>
                 <p className="mb-3"><i className="far fa-check-circle text-primary me-3"></i>On Time Project Delivery</p>
-                <a className="btn btn-primary py-3 px-5 mt-3" href="https://github.com/Fawad-R">Read More</a>
+                <a target="_blank" className="btn btn-primary py-3 px-5 mt-3" href="https://github.com/Fawad-R">Read More</a>
             </div>
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div className="row g-3 mb-4">
