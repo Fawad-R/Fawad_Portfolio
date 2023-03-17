@@ -52,11 +52,11 @@ const Contact = () => {
                             <hr className="w-100" />
                             <p className="mb-2">Follow me:</p>
                             <div className="d-flex pt-2">
-                                <a className="btn btn-square btn-primary me-2" href=""><i className="fab fa-twitter"></i></a>
-                                <a className="btn btn-square btn-primary me-2" href="https://www.instagram.com/sitesguru/"><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-square btn-primary me-2" href="https://www.facebook.com/Sites-guru-100365908988235/"><i className="fab fa-facebook-f"></i></a>
-                                <a className="btn btn-square btn-primary me-2" href="https://youtube.com/channel/UC6KSqaX0K5nFW3biqH7Rz0A"><i className="fab fa-youtube"></i></a>
-                                <a className="btn btn-square btn-primary me-2" href="https://www.linkedin.com/in/f%C3%A0wad-rehm%C3%A0n-035135210/"><i className="fab fa-linkedin-in"></i></a>
+                                <a target="_blank" className="btn btn-square btn-primary me-2" href=""><i className="fab fa-twitter"></i></a>
+                                <a target="_blank"  className="btn btn-square btn-primary me-2" href="https://www.instagram.com/sitesguru/"><i className="fab fa-instagram"></i></a>
+                                <a target="_blank" className="btn btn-square btn-primary me-2" href="https://www.facebook.com/Sites-guru-100365908988235/"><i className="fab fa-facebook-f"></i></a>
+                                <a target="_blank"  className="btn btn-square btn-primary me-2" href="https://youtube.com/channel/UC6KSqaX0K5nFW3biqH7Rz0A"><i className="fab fa-youtube"></i></a>
+                                <a target="_blank"  className="btn btn-square btn-primary me-2" href="https://www.linkedin.com/in/f%C3%A0wad-rehm%C3%A0n-035135210/"><i className="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                         <div className="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
