@@ -12,7 +12,8 @@ const Video_Modal = () => {
             <div className="modal-body">
                 {/* <!-- 16:9 aspect ratio --> */}
                 <div className="ratio ratio-16x9">
-                    <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/W1LTmqJpjCs" id="video" allowFullScreen allowscriptaccess="always"
+                    {/* <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/W1LTmqJpjCs" id="video" allowFullScreen allowscriptaccess="always" */}
+                    <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/xgZY8DS_Iso" id="video" allowFullScreen allowscriptaccess="always"
                         allow="autoplay">
                             
                         </iframe>
