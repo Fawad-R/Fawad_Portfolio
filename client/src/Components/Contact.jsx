@@ -61,7 +61,7 @@ const Contact = () => {
                         </div>
                         <div className="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             {/* <p className="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p> */}
-                            <form>
+                            <form method='POST' action='https://formspree.io/f/mvonbjvb'>
                                 <div className="row g-3">
                                     <div className="col-md-6">
                                         <div className="form-floating">
@@ -88,7 +88,8 @@ const Contact = () => {
                                         </div>
                                     </div>
                                     <div className="col-12">
-                                        <button onClick={ContactUs} className="btn btn-primary py-3 px-5" type="submit">Send Message</button>
+                                        {/* <button onClick={ContactUs} className="btn btn-primary py-3 px-5" type="submit">Send Message</button> */}
+                                        <button  className="btn btn-primary py-3 px-5" type="submit">Send Message</button>
                                     </div>
                                 </div>
                             </form>
