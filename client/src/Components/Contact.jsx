@@ -89,7 +89,7 @@ const Contact = () => {
                                     </div>
                                     <div className="col-12">
                                         {/* <button onClick={ContactUs} className="btn btn-primary py-3 px-5" type="submit">Send Message</button> */}
-                                        <button  className="btn btn-primary py-3 px-5" type="submit">Send Message</button>
+                                        <button   className="btn btn-primary py-3 px-5" type="submit">Send Message</button>
                                     </div>
                                 </div>
                             </form>
